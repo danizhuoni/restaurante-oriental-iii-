@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+
+# Herramientas locales (Claude Code / Higgsfield), no forman parte de la web
+.claude
+.agents
+skills-lock.json
+
+# Cartas originales escaneadas: el contenido ya está en src/data/menu.js
+Carta_Actualizada_Fotos
