@@ -1,0 +1,5 @@
+# Restaurante Oriental III — https://restauranteoriental3sotodelreal.com/
+User-agent: *
+Allow: /
+
+Sitemap: https://restauranteoriental3sotodelreal.com/sitemap.xml
